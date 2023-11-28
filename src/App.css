@@ -1,0 +1,30 @@
+*{
+font-size:120%;
+font-family:Arial;
+}
+
+body{
+background-color:#99ffcc;
+}
+
+h1{
+color:black;
+font-family:Comic Sans MS;
+}
+
+.nav{
+background-color:black;
+}
+
+.nav a{
+color:white;
+text-decoration:none;
+padding:5%;
+}
+
+.nav a:hover
+{
+color:black;
+background-color:#99ffcc;
+cursor:pointer;
+}
